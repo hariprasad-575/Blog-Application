@@ -25,5 +25,5 @@ This project is a blog application built using Node.js, Express.js, and Mongoose
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/blog-application.git
+   git clone https://github.com/hariprasad-575/blog-application.git
    cd blog-application
